@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Epic Thrillion</string>
+    <string name="facebook_app_id">163934061017726</string>
+    <string name="fb_login_protocol_scheme">fb163934061017726</string>
+</resources>

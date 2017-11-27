@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "990321582309",
+    "firebase_url": "https://epicthrillion.firebaseio.com",
+    "project_id": "epicthrillion",
+    "storage_bucket": "epicthrillion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990321582309:android:5c10c174cc5b88a9",
+        "android_client_info": {
+          "package_name": "com.example.dhaval.epicthrillion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990321582309-im0pd29dji5grgrroaeie1fo946hlvh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhaval.epicthrillion",
+            "certificate_hash": "0b8c922da4af48627afd09590572ff1aca584b71"
+          }
+        },
+        {
+          "client_id": "990321582309-83ebkeg7thu0afv574on0vcs8dil0kvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2NCPzl7bJOyy7npnYRXqDcBVleTPU3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990321582309-83ebkeg7thu0afv574on0vcs8dil0kvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
